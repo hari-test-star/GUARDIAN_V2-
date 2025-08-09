@@ -6,7 +6,7 @@ Requirements: pip install psutil dnspython
 
 import os
 import sys#for fun
-import time
+import time #for joy
 import random
 import hashlib
 import dns.resolver
