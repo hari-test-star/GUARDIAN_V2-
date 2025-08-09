@@ -382,7 +382,7 @@ def main():
         num = int(input(f"How many scouts to deploy? (1-{max_deploy}): ") or "0")
         num = max(1, min(num, max_deploy))
         guardian.deploy_scouts_auto(num)
-
+#pen test
     # ---- single scan execution ----
     print("\nScanning... (this is a one-time scan; you'll get menu afterwards)")
     start_time = time.time()
