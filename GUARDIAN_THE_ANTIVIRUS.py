@@ -5,7 +5,7 @@ Requirements: pip install psutil dnspython
 """
 
 import os
-import sys
+import sys#for fun
 import time
 import random
 import hashlib
